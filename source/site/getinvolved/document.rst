@@ -1,20 +1,21 @@
 .. _update-qgis-docs:
 
-Update QGIS Documentation
-=========================
+Working on QGIS Documentation
+==============================
 
-The update of the QGIS documentation is managed by the :ref:`Community Team Lead <gui-translation>`.
-Have a look at the :ref:`QGIS Governance <gui-translation>` to find out who is in charge 
+The update of the QGIS documentation is managed by the :ref:`Community Team Lead <community-resources>`.
+Have a look at the :ref:`QGIS Governance <community-resources>` to find out who is in charge 
 of guiding you.
 
 The complete list of documents managed by the QGIS documentation team can be found 
-at www.qgis.org/en/docs/index.html. A list of documenters can be found at 
-https://github.com/qgis/QGIS-Documentation/graphs/contributors.
+at `www.qgis.org/en/docs/index.html <http://www.qgis.org/en/docs/index.html>`_. 
+A list of documenters can be found at `github.com/qgis/QGIS-Documentation/graphs/contributors 
+<https://github.com/qgis/QGIS-Documentation/graphs/contributors>`_.
 
 .. _mailinglist-translation:
 
 Documentation Mailing list
-...........................
+**************************
 
 If you plan to contribute to an existing document and for other related questions, 
 please contact the Documentation Team Leader (see :ref:`Organigram <gui-translation>`) or 
@@ -30,7 +31,7 @@ join this list and promise that it is usually a very low traffic mailing list.
 The other available mailing lists can be found at :ref:`QGIS-mailinglists`.
 
 Becoming a documenter
-.....................
+**********************
 
 The QGIS project is always looking for people who are willing to invest some
 more time updating QGIS documentation and translating it into a foreign language 
@@ -47,6 +48,22 @@ other and resolve how you will manage your efforts.
 
 Please :ref:`contact <community-resources>` the Community Assistant or the Doc
 translation team leader to see your name entered in the About Box of QGIS.
+
+HOWTO help
+...........
+
+Each time a developper add a new feature in QGIS code, a new ticket is created 
+in the issue tracker of the `QGIS-Documentation repository <https://github.com/QGIS/QGIS-Documentation/issues>`_
+
+You can add a comment to inform other documenters that you are working on the 
+issue or better assign yourself to the ticket.
+
+If the new feature needs some screenshot or screenshot update, add the 
+*screenshot* label to the ticket. People working on this part will know that 
+they have to work on this ticket.
+
+Translating the documentation
+*****************************
 
 Helping with an existing translation
 ....................................
